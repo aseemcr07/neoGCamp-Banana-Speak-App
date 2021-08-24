@@ -15,7 +15,6 @@ function errorHandler(error){
 }
 
 function clickHandler(){
-    // outputDiv.innerText = "ajajajajajaj " + textInput.value;
     var inputText = textInput.value;
 
     // calling server for processing
