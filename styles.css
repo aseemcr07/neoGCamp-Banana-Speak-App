@@ -32,19 +32,6 @@ textarea {
     max-width: 600px;
 }
 
-/**
-#input-box {
-    padding-top: 3rem;
-    box-sizing: border-box;
-    display: block;
-    width: 100%;
-    min-height: 20vh;
-    margin-top: 2rem;
-    font-size: large;
-    font-family: inherit;
-}
-**/
-
 #output {
     margin: auto;
     max-width: 600px;
